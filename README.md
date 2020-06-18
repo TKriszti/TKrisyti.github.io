@@ -1,2 +1,2 @@
-# TKrisyti.github.io
+# TKriszti.github.io
 Demo page
